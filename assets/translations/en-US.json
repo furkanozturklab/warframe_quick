@@ -1,0 +1,112 @@
+{
+    "welcome":"Welcome Back !",
+    "moreOptions":"Please log in for more options",
+    
+
+    "inputUser":"User Name",
+    "inputPsw":"Password",
+    "inputPswRe":"Re Password",
+    "inputMail":"E Mail",
+    "inputRemember":"Remember me",
+    "inputPswReboot":"Forgot password?",
+    "inputLogin":"Login",
+    "inputContinue":"Continue",
+    "inputSendCode":"Send Mail",
+    "inputConfirmedCode":"Verify",
+    "inputPswConfirmedCode":"Okay",
+    "inputChangePsw": "Change Password",
+    "inputAccountNote":"Don't have an account ?",
+    "inputSingIn":"Sign up",
+    "inputOr":"Or",
+    "inputGoogle":"Continue with google",
+
+
+    "login_btn": "Login",
+    "continue_btn": "Continue",
+    "sendCode_btn":"Send",
+    "singUp_btn": "Sign up",
+    "confirm_btn":"Confirm",
+    "changePsw_btn": "Change Password",
+    "reset_btn": "Send",
+    "reset_code_confirmed_btn":"Change Password",
+
+    "singInText1": "Register",
+    "singInText2": "Sign up and start using",
+    "singInText3": "I accept the terms of use.",
+    "singInText4": "I allow Quick Guide to send me information and news.",
+    "singInText5": "Register",
+    "singInText6": "Do you have an account",
+    "singInText7": "Sign in",
+    "singInText8": "I accept the storage and processing of my data in accordance with the Personal Data Protection Law",
+    
+
+    "resetPswText1":"Reset Your Password",
+    "resetPswText2":"Enter your e-mail address in the field below and we will send a password reset e-mail",
+    "resetPswText3":"Send",
+    "resetPswText4":"Turn back",
+    "resetPswText5":"Please enter the security code we sent to your email address",
+    "resetPswText6":"Verification successful, please enter your new password",
+
+    "confirmText1":"Confirm Account",
+    "confirmText2":"Enter the Security Code we sent to your e-mail address",
+    "confirmText3":"Send again",
+    "confirmText4":"Confirm",
+    "confirmText5":"Enter Incoming Code",
+
+
+    "validatorText1": "Must be at least 4 characters",
+    "validatorText2": "Must be at least 8 characters",
+    "validatorText3": "Please enter a valid email",
+    "validatorText4": "Password must contain a number",
+    "validatorText5": "Require 1 uppercase and lowercase letter.",
+    "validatorText6": "Your passwords did not match",
+    "validatorText7": "Code must be 6 Digits",
+
+    
+    "TermsOfUseHeader": "Terms of use", 
+    "TermsOfUseBtn1": "Approve", 
+    "TermsOfUseBtn2": "Close", 
+    "TermsOfUseText1": "1- Google's free service can instantly translate words, phrases and web pages between English and over 100 languages.",
+
+
+
+    "ApiMess1": "The email address has already been used",
+    "ApiMess2": "Username already taken",
+    "ApiMess3": "Could not add user",
+    "ApiMess4": "Please confirm your account",
+    "ApiMess5": "An error occurred while processing, try again later",
+    "ApiMess6": "Verification you can login successfully.",
+    "ApiMess7": "Verification failed try again",
+    "ApiMess8": "Verification failed",
+    "ApiMess9": "Code expired please get it again",
+    "ApiMess10": "User pre-approved",
+    "ApiMess11": "New code sent to your e-mail address",
+    "ApiMess12": "The code could not be sent, please try again later",
+    "ApiMess13": "There is no such use",
+    "ApiMess14": "Login unsuccessful, please check your credentials",
+    "ApiMess15": "Please verify your account first",
+    "ApiMess16": "An error occurred, please try again later",
+    "ApiMess17": "Login successful",
+    "ApiMess18": "User has been deleted, please contact support",
+    "ApiMess19": "Please try again later",
+    "ApiMess20": "The code has been sent, please check your email",
+    "ApiMess21": "An error occurred, please wait a moment and try again",
+    "ApiMess22": "The security code has been sent to your email address",
+    "ApiMess23": "Your password has been successfully updated",
+    "ApiMess24": "An error occurred during the update",
+    "ApiMess25": "You entered an old password...",
+    "ApiMess26": "The security code has expired, please request again",
+    "ApiMess27": "Your security code is incorrect",
+    "ApiMess28": "Code confirmed",
+    "ApiMess29": "A new code has been sent to your email address",
+    "ApiMess30": "",
+
+    "ErrorMess1": "Our terms are not accepted",
+    "ErrorMess2": "An error has occurred please try again later",
+    "ErrorMess3": "Kvkk lighting text not accepted",
+    "ErrorMess4": "An error has occurred",
+    "ErrorMess5": "",
+    "ErrorMess6": ""
+
+
+}
